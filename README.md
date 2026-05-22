@@ -41,3 +41,10 @@ I build intelligent Telegram bots that act as personal assistants, capable of ha
 > **Project Status:** In Development
 * **Capabilities:** Integrated an AI Agent with tool-calling abilities to update sales orders, check real-time inventory, and delete entries in Google Sheets.
 * **Advanced Features:** Audio transcription for voice-commanded business updates and automated Google Calendar event creation.
+
+---
+
+## 📩 Let's Connect
+If you are interested in a custom automation or have a project in mind, feel free to reach out!
+
+* **Email:** aaronmirandilla24@gmail.com  
