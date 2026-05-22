@@ -15,7 +15,7 @@ I don't wait for permission to learn. Whether it's building backend automation o
 
 ## Habits
 I believe discipline in one area carries over to all others. 
-* **Music:** I play Piano, Guitar, and Violin. It's the same logic as coding—precision and timing matter.
+* **Music:** I play Piano, Guitar, and Violin. It's the same logic as coding-precision and timing matter.
 * **Combat & Sports:** Taekwondo, Karate, Soccer, and Swimming. I keep my reaction time fast and my focus sharp.
 * **Languages:** Exploring Japanese, Mandarin, Korean, and French. 
 * **Gaming:** Competitive Mobile Legends (ML). I play for the macro-strategy and high-pressure execution.
@@ -35,7 +35,7 @@ I build intelligent Telegram bots that act as personal assistants, capable of ha
 ### Multi-Tool Telegram Assistant
 * **Project Status:** Finished
 * **Technical Setup:** Uses Gemini Chat Models with "Simple Memory" to maintain conversation context.
-* **Integrations:** Automated a pipeline that transcribes audio, appends data to Google Sheets, sends Gmail notifications, and manages Google Drive uploads—all triggered from a mobile chat interface.
+* **Integrations:** Automated a pipeline that transcribes audio, appends data to Google Sheets, sends Gmail notifications, and manages Google Drive uploads-all triggered from a mobile chat interface.
 
 ### Business Tracker & ERP Bot
 > **Project Status:** In Development
