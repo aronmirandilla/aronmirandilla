@@ -25,7 +25,7 @@ I believe discipline in one area carries over to all others.
 ## Featured Project: Vertex AI Automation Engine
 This is one of my key project. It’s an n8n-based system that talks to Google Cloud to generate AI video. 
 
-> **Project Status:** I'm moving away from automated YouTube content to focus on building more robust, full-stack tools.
+* **Project Status:** Finished
 * **The Hard Part:** I solved the issue of API timeouts by building an asynchronous status-check loop. 
 * **The Tech:** It uses JWT authentication and structured JSON data to keep the pipeline stable.
 
