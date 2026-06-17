@@ -1,6 +1,6 @@
 # Hi I'm Aaron Mirandilla
 
-An Incoming IT Student | Self-Taught Developer 
+An Incoming Applied Mathematics Student | And I'm a Self-Taught Developer 
 
 I don't wait for permission to learn. Whether it's building backend automation or mastering a violin concerto, I dive in head-first. I study my environment, think three steps ahead, and execute until it's done.
 
