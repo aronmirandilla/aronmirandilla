@@ -2,7 +2,7 @@
 
 An Incoming Applied Mathematics Student | And I'm a Self-Taught Developer 
 
-I don't wait for permission to learn. Whether it's building backend automation or mastering a violin concerto, I dive in head-first. I study my environment, think three steps ahead, and execute until it's done.
+Building automation systems with n8n and AI tools while preparing for a degree in Applied Mathematics. Whether it's building backend automation or mastering a violin concerto, I dive in head-first. I enjoy building automation systems, experimenting with AI tools, and learning by creating real-world projects.
 
 ---
 
@@ -40,7 +40,15 @@ I build intelligent Telegram bots that act as personal assistants, capable of ha
 ### Business Tracker & ERP Bot
 > **Project Status:** In Development
 * **Capabilities:** Integrated an AI Agent with tool-calling abilities to update sales orders, check real-time inventory, and delete entries in Google Sheets.
-* **Advanced Features:** Audio transcription for voice-commanded business updates and automated Google Calendar event creation.
+* **Advanced Features:**
+
+**Telegram assistant capable of:**
+
+Audio transcription
+Gmail notifications
+Google Sheets updates
+Google Drive uploads
+Context-aware conversations using Gemini
 
 ---
 
