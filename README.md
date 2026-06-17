@@ -44,11 +44,11 @@ I build intelligent Telegram bots that act as personal assistants, capable of ha
 
 **Telegram assistant capable of:**
 
-Audio transcription
-Gmail notifications
-Google Sheets updates
-Google Drive uploads
-Context-aware conversations using Gemini
+- Audio transcription
+- Gmail notifications
+- Google Sheets updates
+- Google Drive uploads
+- Context-aware conversations using Gemini
 
 ---
 
