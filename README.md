@@ -15,9 +15,9 @@ Building automation systems with n8n and AI tools while preparing for a degree i
 
 ## Habits
 I believe discipline in one area carries over to all others. 
-* **Music:** I play Piano, Guitar, and Violin. It's the same logic as coding-precision and timing matter.
+* **Instruments:** I play Piano and Guitar. It's the same logic as coding-precision and timing matter.
 * **Combat & Sports:** Taekwondo, Karate, Soccer, and Swimming. I keep my reaction time fast and my focus sharp.
-* **Languages:** Exploring Japanese, Mandarin, Korean, and French. 
+* **Languages:** Exploring Japanese. 
 * **Gaming:** Competitive Mobile Legends (ML). I play for the macro-strategy and high-pressure execution.
 
 ---
